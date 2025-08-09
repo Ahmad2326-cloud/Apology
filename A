@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Penguin 🐧💙</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #e0f7fa, #b3e5fc);
+            text-align: center;
+            padding: 50px 20px;
+            color: #004d40;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            max-width: 400px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        .penguins {
+            font-size: 3rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-top: 15px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="penguins">🐧💙🐧</div>
+        <h1>Hi Adan 💌</h1>
+        <p>This is a little message from Ahmad 🐧<br>
+        You’re my penguin forever 💙</p>
+        <div class="penguins">🐧💙🐧</div>
+    </div>
+    <div class="footer">
+        Made with love 🐧 – Ahmad
+    </div>
+</body>
+</html>
